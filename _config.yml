@@ -5,6 +5,4 @@ url: "https://username.github.io"
 collections:
   stories:
     output: true
-    permalink: /:collection/:title
-
-header: "Website Truyện Chữ Của Phạm Băng"
+    permalink: /:collection/:name
