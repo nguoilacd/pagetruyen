@@ -1,0 +1,8 @@
+name: Website Truyện Chữ
+theme: minima
+baseurl: ""
+url: "https://username.github.io"
+collections:
+  stories:
+    output: true
+    permalink: /:collection/:title
