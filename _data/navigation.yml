@@ -1,0 +1,4 @@
+- name: Trang Chủ
+  link: /
+- name: Danh Sách Truyện
+  link: /index.html
