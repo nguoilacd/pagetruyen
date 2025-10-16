@@ -6,3 +6,5 @@ collections:
   stories:
     output: true
     permalink: /:collection/:title
+
+header: "Website Truyện Chữ Của Phạm Băng"
